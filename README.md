@@ -7,4 +7,4 @@ This is a solution that I quite literally slopped together in an effort to show 
 It ran very elegantly and while I am not happy with some of my decisions as far as the architecture, this functioned as a proof of concept.
 
 
-NOTE TO RECRUITERS: This code is far from professional in quality, and the main reason I put it here is so that, over time, I can go back and learn from my miss-steps!
+NOTE TO RECRUITERS: This code is far from professional in quality, and the main reason I put it here is so that, over time, I can go back and learn from my miss-steps! The main interesting factor here is that I made this on my own time out of pure interest, and came up with a novel method of accomplishing my goals.
